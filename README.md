@@ -3,100 +3,99 @@
 **Software Developer · Creator · Storyteller**  
 Based in Arizona (MST)
 
-I like building things that blend logic and creativity — apps, dev tooling, media, even games. I started out editing videos and making game mods, and over time that turned into full-stack software development, UI work, and a real interest in software architecture.
+I like building things that combine logic and creativity. Sometimes that looks like a web app, sometimes a tool for other developers, and sometimes a piece of media. I started with video and game-related stuff, and that eventually turned into full-stack development and UI work.
 
 ---
 
 ## The Journey Behind the Code
 
-I didn’t get into tech because of a textbook — it was from making things.
+I did not start with formal computer science textbooks. I started by making things.
 
 - As a teenager I went to ID Tech Camp at ASU and got introduced to Unity, Unreal, and modding.
-- I made Java mods for Minecraft before I even had a formal OOP class.
-- I realized pretty fast that the same mindset behind editing a video — flow, rhythm, what to show next — is the same mindset behind building good software.
+- I made Java mods for Minecraft before I had a real OOP course.
+- I noticed that good video editing and good software both care about flow, timing, and what the user sees next.
 
-That mix of *creative + technical* is still how I work.
+That mix of creative thinking and technical problem solving still shows up in my projects.
 
 ---
 
 ## Creative Foundations
 
-In high school I was deep into media production: After Effects, Premiere Pro, Photoshop.  
-I learned motion tracking, lyric syncing, and color grading — but more importantly, I learned how to tell a story with timing.
+In high school I spent a lot of time in media production: After Effects, Premiere Pro, Photoshop.  
+I learned motion tracking, lyric syncing, color grading, and how to control pacing.
 
-My YouTube channel, **Kai The Guy**, became the sandbox for all of that. I used it to test edits, humor, music-synced videos, and pacing. That experience is why I care about UX today — software should *feel* right, not just compile.
+My YouTube channel, **Kai The Guy**, became the place where I tested ideas. I tried humor, music-synced edits, short stories, and timing experiments. That is a big reason I care about UX now. Software should feel intentional, not accidental.
 
 - YouTube: **Kai The Guy**
-- Content: edits, timing experiments, storytelling with music
+- Content: edits, music timing, video-first storytelling
 
 ---
 
 ## Academic Path
 
-I went to **Grand Canyon University** and started in **Computer Science (Game Design emphasis)** — C++, classes, pointers, memory management, the “under the hood” stuff.
+I attended **Grand Canyon University**. I started in **Computer Science (Game Design emphasis)**, which meant C++, classes, pointers, memory management, and understanding what the machine is doing.
 
-Then I switched into **Software Development** so I could focus on building production-grade apps: clean architecture, SOLID, microservice design, enterprise patterns, database work, and cloud deployment.
+I later moved into **Software Development** so I could focus on building real applications. That included clean architecture, SOLID principles, microservice ideas, databases, cloud deployment, and full system integration.
 
-That combo (creative start → CS/game design → software dev) is basically why I care about both **how code is written** and **how it’s experienced**.
+That shift is why I care both about how code is organized and how it is presented to the user.
 
 ---
 
 ## What I Work With
 
-**Web & Frontend**
-- React, JavaScript/TypeScript
+**Web and Frontend**
+- React, JavaScript, TypeScript
 - Angular
 - Flutter
-- UI/UX-aware component design
+- Component driven UI
 
-**Backend & Services**
+**Backend and Services**
 - .NET / ASP.NET
-- Node/JS
+- Node.js
 - Spring Boot
 - REST APIs
 - Firebase, MongoDB, MySQL
 
-**Tools / DevOps**
-- GitHub / GitHub Actions
+**Tools and DevOps**
+- GitHub and GitHub Actions
 - Docker
 - Postman
 - Cloud deployment
 
 ---
 
-## Featured / Recent Projects
+## Featured and Recent Projects
 
 - **[DevHive.Backend](https://github.com/KarstenHedrick/DevHive.Backend)**  
-  ASP.NET backend powering DevHive — built to support a collaborative developer experience.
+  ASP.NET backend for DevHive, built for a collaborative developer experience.
 
 - **[DevHive.ReactFrontend](https://github.com/kaihedrick/DevHive.ReactFrontend)**  
-  React frontend for DevHive focused on responsiveness and a clean workflow.
+  React frontend for DevHive, focused on a clean and responsive workflow.
 
-- **Creative / Media Work**  
-  I still do video and audio production (FL Studio, guitar, songwriting) — a lot of that feeds into how I approach UI, motion, and storytelling.
+- **Creative and Media Work**  
+  I still produce music in FL Studio, play guitar, and work on projects with my brother, Karsten. That creative work influences how I think about rhythm in interfaces.
 
-More about me and my projects: **[kaihedrick.com](https://kaihedrick.com)**
+More is on **[kaihedrick.com](https://kaihedrick.com)**.
 
 ---
 
 ## Quick Facts
 
-- Arizona (MST)
-- Gamer; loves game design and teaching/tech camps
-- Guitar player and music producer (often with my brother, Karsten)
-- Interested in software architecture, UI design, and building apps people actually want to use
+- Located in Arizona (MST)
+- Enjoys game design and tech camps
+- Plays guitar and writes music
+- Interested in software architecture and UI design
 
 ---
 
 ## Why I Build
 
-I like designing experiences that connect people — sometimes that’s through a game mechanic, sometimes through an interface, sometimes through code other developers will build on. If it tells a story or makes someone’s workflow better, I’m in.
+I like making experiences that connect people. Sometimes that happens through gameplay, sometimes through a clear interface, and sometimes through code that other developers can extend. If it helps someone communicate or create, I want to work on it.
 
 ---
 
 ## Connect
 
 - Website: [kaihedrick.com](https://kaihedrick.com)
-- GitHub: you’re here :)
 - LinkedIn: [linkedin.com/in/kai-hedrick](https://www.linkedin.com/in/kai-hedrick/)
 - YouTube: **Kai The Guy**
