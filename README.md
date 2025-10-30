@@ -1,61 +1,102 @@
-# Hi, I'm Kai Hedrick
+# Kai Hedrick
 
-**Software Engineer · React · DevOps · ASP.NET**
+**Software Developer · Creator · Storyteller**  
+Based in Arizona (MST)
 
-Welcome to my GitHub. I like building things that are reliable, easy to work on, and useful to other developers. Most of what you’ll see here is me experimenting with modern web stacks, cleaning up workflows, or trying to make dev life a little less painful.
+I like building things that blend logic and creativity — apps, dev tooling, media, even games. I started out editing videos and making game mods, and over time that turned into full-stack software development, UI work, and a real interest in software architecture.
 
 ---
 
-## About Me
+## The Journey Behind the Code
 
-- Software engineer with a focus on web apps and developer experience
-- Guitar player
-- Former varsity & college club lefty pitcher
-- Gamer (these days: Marvel Rivals; long-time CS:GO person)
-- Always learning, always shipping
+I didn’t get into tech because of a textbook — it was from making things.
+
+- As a teenager I went to ID Tech Camp at ASU and got introduced to Unity, Unreal, and modding.
+- I made Java mods for Minecraft before I even had a formal OOP class.
+- I realized pretty fast that the same mindset behind editing a video — flow, rhythm, what to show next — is the same mindset behind building good software.
+
+That mix of *creative + technical* is still how I work.
+
+---
+
+## Creative Foundations
+
+In high school I was deep into media production: After Effects, Premiere Pro, Photoshop.  
+I learned motion tracking, lyric syncing, and color grading — but more importantly, I learned how to tell a story with timing.
+
+My YouTube channel, **Kai The Guy**, became the sandbox for all of that. I used it to test edits, humor, music-synced videos, and pacing. That experience is why I care about UX today — software should *feel* right, not just compile.
+
+- YouTube: **Kai The Guy**
+- Content: edits, timing experiments, storytelling with music
+
+---
+
+## Academic Path
+
+I went to **Grand Canyon University** and started in **Computer Science (Game Design emphasis)** — C++, classes, pointers, memory management, the “under the hood” stuff.
+
+Then I switched into **Software Development** so I could focus on building production-grade apps: clean architecture, SOLID, microservice design, enterprise patterns, database work, and cloud deployment.
+
+That combo (creative start → CS/game design → software dev) is basically why I care about both **how code is written** and **how it’s experienced**.
 
 ---
 
 ## What I Work With
 
-- **Frontend:** React, TypeScript, JavaScript  
-- **Backend:** ASP.NET, C#, Node.js  
-- **DevOps / Infra:** CI/CD, Docker, GitHub Actions, Azure  
-- **Other:** REST APIs, test automation, Agile habits
+**Web & Frontend**
+- React, JavaScript/TypeScript
+- Angular
+- Flutter
+- UI/UX-aware component design
+
+**Backend & Services**
+- .NET / ASP.NET
+- Node/JS
+- Spring Boot
+- REST APIs
+- Firebase, MongoDB, MySQL
+
+**Tools / DevOps**
+- GitHub / GitHub Actions
+- Docker
+- Postman
+- Cloud deployment
 
 ---
 
-## Featured Projects
+## Featured / Recent Projects
 
 - **[DevHive.Backend](https://github.com/KarstenHedrick/DevHive.Backend)**  
-  ASP.NET backend for DevHive, a collaborative platform for developers.
+  ASP.NET backend powering DevHive — built to support a collaborative developer experience.
 
 - **[DevHive.ReactFrontend](https://github.com/kaihedrick/DevHive.ReactFrontend)**  
-  React frontend for DevHive focused on a clean, responsive developer workflow.
+  React frontend for DevHive focused on responsiveness and a clean workflow.
 
-You can see more of what I’m doing at **[kaihedrick.com](https://kaihedrick.com)**.
+- **Creative / Media Work**  
+  I still do video and audio production (FL Studio, guitar, songwriting) — a lot of that feeds into how I approach UI, motion, and storytelling.
 
----
-
-## Outside of Code
-
-- Playing guitar (I will talk tone for way too long)
-- Baseball (lefty forever)
-- Games with good teamplay
-- Curious about tech, science, and how it all fits with faith
+More about me and my projects: **[kaihedrick.com](https://kaihedrick.com)**
 
 ---
 
-## A Thought I Like
+## Quick Facts
 
-> “The more I learn, the more I see how much we don’t fully understand yet.”
+- Arizona (MST)
+- Gamer; loves game design and teaching/tech camps
+- Guitar player and music producer (often with my brother, Karsten)
+- Interested in software architecture, UI design, and building apps people actually want to use
 
-(That curiosity is a big reason I build.)
+---
+
+## Why I Build
+
+I like designing experiences that connect people — sometimes that’s through a game mechanic, sometimes through an interface, sometimes through code other developers will build on. If it tells a story or makes someone’s workflow better, I’m in.
 
 ---
 
 ## Connect
 
 - Website: [kaihedrick.com](https://kaihedrick.com)
+- GitHub: you’re here :)
 - LinkedIn: [linkedin.com/in/kai-hedrick](https://www.linkedin.com/in/kai-hedrick/)
-- Instagram: [instagram.com/kaihedri](https://www.instagram.com/kaihedri/)
+- YouTube: **Kai The Guy**
